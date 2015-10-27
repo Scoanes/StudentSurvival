@@ -1,0 +1,3 @@
+Which month is the general UCAS deadline?,January,June,
+It's Pointless to add part-time jobs in your CV?,False,True,
+The Employers may ask about the company history,True,False,
